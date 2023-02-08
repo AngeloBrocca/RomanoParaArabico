@@ -1,0 +1,17 @@
+C:\Users\angel\Desktop\csharp\RomToDecC\bin\Debug\net6.0-windows\RomToDecC.exe
+C:\Users\angel\Desktop\csharp\RomToDecC\bin\Debug\net6.0-windows\RomToDecC.deps.json
+C:\Users\angel\Desktop\csharp\RomToDecC\bin\Debug\net6.0-windows\RomToDecC.runtimeconfig.json
+C:\Users\angel\Desktop\csharp\RomToDecC\bin\Debug\net6.0-windows\RomToDecC.dll
+C:\Users\angel\Desktop\csharp\RomToDecC\bin\Debug\net6.0-windows\RomToDecC.pdb
+C:\Users\angel\Desktop\csharp\RomToDecC\obj\Debug\net6.0-windows\RomToDecC.csproj.AssemblyReference.cache
+C:\Users\angel\Desktop\csharp\RomToDecC\obj\Debug\net6.0-windows\RomToDecC.Form1.resources
+C:\Users\angel\Desktop\csharp\RomToDecC\obj\Debug\net6.0-windows\RomToDecC.csproj.GenerateResource.cache
+C:\Users\angel\Desktop\csharp\RomToDecC\obj\Debug\net6.0-windows\RomToDecC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Desktop\csharp\RomToDecC\obj\Debug\net6.0-windows\RomToDecC.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\csharp\RomToDecC\obj\Debug\net6.0-windows\RomToDecC.AssemblyInfo.cs
+C:\Users\angel\Desktop\csharp\RomToDecC\obj\Debug\net6.0-windows\RomToDecC.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\csharp\RomToDecC\obj\Debug\net6.0-windows\RomToDecC.dll
+C:\Users\angel\Desktop\csharp\RomToDecC\obj\Debug\net6.0-windows\refint\RomToDecC.dll
+C:\Users\angel\Desktop\csharp\RomToDecC\obj\Debug\net6.0-windows\RomToDecC.pdb
+C:\Users\angel\Desktop\csharp\RomToDecC\obj\Debug\net6.0-windows\RomToDecC.genruntimeconfig.cache
+C:\Users\angel\Desktop\csharp\RomToDecC\obj\Debug\net6.0-windows\ref\RomToDecC.dll
